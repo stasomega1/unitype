@@ -11,7 +11,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/unidoc/unitype"
+	"github.com/stasomega1/unitype"
 )
 
 const validateCmdDesc = `Validate font file.`

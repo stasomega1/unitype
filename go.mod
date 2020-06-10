@@ -1,4 +1,4 @@
-module github.com/unidoc/unitype
+module github.com/stasomega1/unitype
 
 require (
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect

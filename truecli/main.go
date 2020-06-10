@@ -5,7 +5,7 @@
 
 package main
 
-import "github.com/unidoc/unitype/truecli/cmd"
+import "github.com/stasomega1/unitype/truecli/cmd"
 
 func main() {
 	cmd.Execute()
